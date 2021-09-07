@@ -1,1 +1,1 @@
-# stepin_mini-voting-system
+# stepin_calculator
