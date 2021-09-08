@@ -1,13 +1,3 @@
-# MATRIX CALCULATOR
-### Miniproject 
-![Banner](https://github.com/saritha-miniproject-ltts/blob/main/1_Requirements/Matrix.png)
-
-
-Build | Code Quality | Unity | [Git Inspector](using github.io option)
-------|----------|-------|--------------
-[![C/C++ CI](https://github.com/saritha-miniproject-ltts/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/saritha-miniproject-ltts/actions/workflows/c-cpp.yml) | [![Static Cppcheck](https://github.com/saritha-miniproject-ltts/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/saritha-miniproject-ltts/actions/workflows/cppcheck.yml) [![Dynamic Valgrind](https://github.com/saritha-miniproject-ltts/actions/workflows/CodeQuality_Dynamic.yml/badge.svg)](https://github.com/saritha-miniproject-ltts/actions/workflows/CodeQuality_Dynamic.yml) | [![Unity - Unit Testing](https://github.com/saritha-miniproject-ltts/actions/workflows/unity.yml/badge.svg)](https://github.com/sritha-miniproject-ltts/actions/workflows/unity.yml)| [![Git Inspector](https://github.com/saritha-miniproject-ltts/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/saritha-miniproject-ltts/actions/workflows/gitinspector.yml)
-
-
 ## Folder Structure
 Folder             | Description
 -------------------| -----------------------------------------
