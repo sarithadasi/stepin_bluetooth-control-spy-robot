@@ -1,9 +1,9 @@
 /**
  * @file matrix_operations.c
- * @author Hemanth A(hemanth.ec17@bmsce.ac.in)
+ * @author Saritha
  * @brief  This is the source code which contains all the functions for the project
  * @version 0.1
- * @date 2021-04-15
+ * @date 2021-09-07
  * 
  * @copyright Copyright (c) 2021
  * 
