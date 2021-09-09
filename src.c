@@ -1,6 +1,6 @@
 /**
  * @file matrix_operations.c
- * @author Saritha
+ * @author Saritha H
  * @brief  This is the source code which contains all the functions for the project
  * @version 0.1
  * @date 2021-09-07
