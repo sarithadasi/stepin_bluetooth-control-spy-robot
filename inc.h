@@ -3,7 +3,7 @@
  * @author Saritha
  * @brief A program to calculate various operations on a matrix
  * @version 0.1
- * @date 2021-07-09
+ * @date 2021-09-07
  * 
  * @copyright Copyright (c) 2021
  * 
