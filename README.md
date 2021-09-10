@@ -1,3 +1,4 @@
+CALCULATOR
 ## Folder Structure
 Folder             | Description
 -------------------| -----------------------------------------
